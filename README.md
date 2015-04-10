@@ -1,6 +1,3 @@
-# Speaking
-Resources for Public Speaking and other misc info.
-
 ## About Me
 Ines Sombra is an Engineer at @Fastly, where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines @randommood
 
