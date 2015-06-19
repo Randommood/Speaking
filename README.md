@@ -6,13 +6,17 @@ Ines Sombra is an Engineer at @Fastly, where she spends her time helping the Web
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2015
-* [Monitorama 2015](http://monitorama.com/), Portland - [Materials](#)
 * [CraftConf 2015](craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
+* [Monitorama 2015](http://monitorama.com/), Portland - [Materials](https://github.com/Randommood/ZerotoCapacityPlanning)
+* [Altitude 2015](https://fastly.com/altitude), San Francisco
+* [Goto London](), London
+* [Strangeloop](), Saint Louis
+
 
 ### 2014
 * [RICON 2014](http://ricon.io/archive/2014/index.html), Vegas - [Materials](https://github.com/randommood/ricon2014)
-* [QCon 2014](), NYC    - [Materials](https://github.com/Randommood/QConNYC2014)
-* [GreatWideOpen 2014](), Atlanta -[Materials](https://github.com/Randommood/GreatWideOpen2014)
+* [QCon 2014](https://qconnewyork.com/ny2014/schedule-2014.html), NYC - [Materials](https://github.com/Randommood/QConNYC2014)
+* [GreatWideOpen 2014](http://greatwideopen.org/2014/), Atlanta -[Materials](https://github.com/Randommood/GreatWideOpen2014)
 
 ### 2013
 * Lancaster University’s Highwire program: Seminar on Cloud and Innovation
