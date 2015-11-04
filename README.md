@@ -9,9 +9,9 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 * [CraftConf 2015](craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
 * [Monitorama 2015](http://monitorama.com/), Portland - [Materials](https://github.com/Randommood/ZerotoCapacityPlanning)
 * [Altitude 2015](https://fastly.com/altitude), San Francisco - [Materials](https://github.com/Randommood/FallacyOfFast)
-* [Goto London](gotocon.com/goto-london-2015/), London
-* [Strangeloop](http://www.thestrangeloop.com/), Saint Louis
-
+* [Goto London - Keynote](gotocon.com/goto-london-2015/), London - [Materials](https://github.com/Randommood/GotoLondon2015)
+* [Strangeloop](http://www.thestrangeloop.com/), Saint Louis - [Materials](https://github.com/Randommood/Strangeloop2015)
+* [QCon SF 2015 - Keynote](https://qconsf.com/), San Francisco - [Materials](https://github.com/Randommood/QConSF2015)
 
 ### 2014
 * [RICON 2014](http://ricon.io/archive/2014/index.html), Vegas - [Materials](https://github.com/randommood/ricon2014)
