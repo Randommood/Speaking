@@ -6,21 +6,21 @@ Ines Sombra is an Engineer at @Fastly, where she spends her time helping the Web
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2015
-* [CraftConf 2015](craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
-* [Monitorama 2015](http://monitorama.com/), Portland - [Materials](https://github.com/Randommood/ZerotoCapacityPlanning)
-* [Altitude 2015](https://fastly.com/altitude), San Francisco - [Materials](https://github.com/Randommood/FallacyOfFast)
-* [Goto London - Keynote](gotocon.com/goto-london-2015/), London - [Materials](https://github.com/Randommood/GotoLondon2015)
-* [Strangeloop](http://www.thestrangeloop.com/), Saint Louis - [Materials](https://github.com/Randommood/Strangeloop2015)
-* [QCon SF 2015 - Keynote](https://qconsf.com/), San Francisco - [Materials](https://github.com/Randommood/QConSF2015)
+* [Testing and Integration, The Remix - CraftConf 2015](craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
+* [From 0 to Capacity Planning - Monitorama 2015](http://monitorama.com/), Portland - [Materials](https://github.com/Randommood/ZerotoCapacityPlanning)
+* [The Fallacy of Fast - Altitude 2015](https://fastly.com/altitude), San Francisco - [Materials](https://github.com/Randommood/FallacyOfFast)
+* [Agile, Rugged, and Lean The Paper Edition - Goto London Keynote](gotocon.com/goto-london-2015/), London - [Materials](https://github.com/Randommood/GotoLondon2015)
+* [Architectural Patterns of Resilient Distributed Systems - Strangeloop](http://www.thestrangeloop.com/), Saint Louis - [Materials](https://github.com/Randommood/Strangeloop2015)
+* [We Hear you like Papers - QCon SF 2015 Keynote](https://qconsf.com/), San Francisco - [Materials](https://github.com/Randommood/QConSF2015)
 
 ### 2014
-* [RICON 2014](http://ricon.io/archive/2014/index.html), Vegas - [Materials](https://github.com/randommood/ricon2014)
-* [QCon 2014](https://qconnewyork.com/ny2014/schedule-2014.html), NYC - [Materials](https://github.com/Randommood/QConNYC2014)
-* [GreatWideOpen 2014](http://greatwideopen.org/2014/), Atlanta -[Materials](https://github.com/Randommood/GreatWideOpen2014)
+* [Testing in a Distributed World - RICON 2014](http://ricon.io/archive/2014/index.html), Vegas - [Materials](https://github.com/randommood/ricon2014)
+* [Computational Patterns of The Cloud - QCon 2014](https://qconnewyork.com/ny2014/schedule-2014.html), NYC - [Materials](https://github.com/Randommood/QConNYC2014)
+* [Relational and Non-Relational Databases in The Cloud - GreatWideOpen 2014](http://greatwideopen.org/2014/), Atlanta -[Materials](https://github.com/Randommood/GreatWideOpen2014)
 
 ### 2013
 * [Lancaster University’s Highwire program: Seminar on Cloud and Innovation](http://www.highwire.lancs.ac.uk/events/Preview/1058) - [Slides](https://speakerdeck.com/randommood/how-the-cloud-is-changing-the-world)
-* [All Your Base 2013](http://allyourbaseconf.com/2013/), Oxford England - [Slides](https://speakerdeck.com/randommood/data-antipatterns-all-your-base)
+* [Data Antipatterns - All Your Base 2013](http://allyourbaseconf.com/2013/), Oxford England - [Slides](https://speakerdeck.com/randommood/data-antipatterns-all-your-base)
 
 ### 2012
 * PostgresOpen 2012, Chicago
