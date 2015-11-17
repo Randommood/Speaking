@@ -1,9 +1,17 @@
 ## About Me
-Ines Sombra is an Engineer at @Fastly, where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
+Ines Sombra is a Distributed Systems Engineer at @Fastly, where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
 
 ## Recent & Upcoming Speaking Appearances
 
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
+
+### 2016
+* CraftConf, Budapest
+* Goto Chicago
+* Papers we love NYC
+* Undecided
+* Undecided
+* Undecided
 
 ### 2015
 * [Testing and Integration, The Remix - CraftConf 2015](craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
