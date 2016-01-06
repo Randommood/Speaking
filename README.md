@@ -9,15 +9,15 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 * CraftConf, Budapest
 * Goto Chicago
 * Papers we love NYC
-* Undecided
+* Barcelona Full Stack Fest
 * Undecided
 * Undecided
 
 ### 2015
-* [Testing and Integration, The Remix - CraftConf 2015](craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
+* [Testing and Integration, The Remix - CraftConf 2015](http://craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
 * [From 0 to Capacity Planning - Monitorama 2015](http://monitorama.com/), Portland - [Materials](https://github.com/Randommood/ZerotoCapacityPlanning)
 * [The Fallacy of Fast - Altitude 2015](https://fastly.com/altitude), San Francisco - [Materials](https://github.com/Randommood/FallacyOfFast)
-* [Agile, Rugged, and Lean The Paper Edition - Goto London Keynote](gotocon.com/goto-london-2015/), London - [Materials](https://github.com/Randommood/GotoLondon2015)
+* [Agile, Rugged, and Lean The Paper Edition - Goto London Keynote](http://gotocon.com/goto-london-2015/), London - [Materials](https://github.com/Randommood/GotoLondon2015)
 * [Architectural Patterns of Resilient Distributed Systems - Strangeloop](http://www.thestrangeloop.com/), Saint Louis - [Materials](https://github.com/Randommood/Strangeloop2015)
 * [We Hear you like Papers - QCon SF 2015 Keynote](https://qconsf.com/), San Francisco - [Materials](https://github.com/Randommood/QConSF2015)
 
