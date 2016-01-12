@@ -6,10 +6,10 @@ Ines Sombra is a Distributed Systems Engineer at @Fastly, where she spends her t
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2016
-* CraftConf, Budapest
-* Goto Chicago
+* [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29
+* [Goto](http://gotocon.com/chicago-2016/), Chicago - May 24-25
 * Papers we love NYC
-* Barcelona Full Stack Fest
+* [Barcelona Full Stack Fest](http://2016.fullstackfest.com/), Barcelona - September 5-9
 * Undecided
 * Undecided
 
