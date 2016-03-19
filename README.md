@@ -7,9 +7,9 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2016
 * [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29
+* [PWL NYC]() - June 16
 * [Velocity](http://conferences.oreilly.com/velocity/devops-web-performance-ca), Santa Clara - June 22–23
 * [Barcelona Full Stack Fest](http://2016.fullstackfest.com/), Barcelona - September 5-9
-* Undecided
 * Undecided
 * [YOW Melbourne](http://melbourne.yowconference.com.au/) [YOW Brisbane](http://brisbane.yowconference.com.au/) [YOW Sydney](http://sydney.yowconference.com.au/), Australia - December 1-9
 
