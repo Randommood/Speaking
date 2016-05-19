@@ -1,5 +1,5 @@
 ## About Me
-Ines Sombra is a Distributed Systems Engineer at @Fastly, where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
+Ines Sombra is a Distributed Systems Engineer at [Fastly](https://www.fastly.com/), where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
 
 ## Recent & Upcoming Speaking Appearances
 
@@ -7,9 +7,10 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2016
 * [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29 - [Materials](https://github.com/Randommood/FallacyOfFast)
-* [PWL NYC - tentative]() - June 16
+* [PWL NYC](http://www.meetup.com/papers-we-love/) - New York - June 14
+* [Velocity Keynote](http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/schedule/detail/53044) - Santa Clara - June 22
 * [Barcelona Full Stack Fest](http://2016.fullstackfest.com/), Barcelona - September 5-9
-* Undecided
+* [QCon SF - tentative]() - San Francisco - November 7-9
 * [YOW Melbourne](http://melbourne.yowconference.com.au/) [YOW Brisbane](http://brisbane.yowconference.com.au/) [YOW Sydney](http://sydney.yowconference.com.au/), Australia - December 1-9
 
 ### 2015
