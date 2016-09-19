@@ -6,7 +6,10 @@ Ines Sombra is a Distributed Systems Engineer at [Fastly](https://www.fastly.com
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2017
-* [J on the Beach]()
+* [J on the Beach](), Malaga - May 17-19
+* [Spot 2]()
+* [Spot 3]()
+* [Spot 4 - tentative]()
 
 ### 2016
 * [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29 - [Materials](https://github.com/Randommood/FallacyOfFast)
