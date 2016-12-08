@@ -12,8 +12,8 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2016
 * [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29 - [Materials](https://github.com/Randommood/FallacyOfFast)
-* [PWL NYC](http://www.meetup.com/papers-we-love/) - New York - June 14 - [Materials](https://github.com/Randommood/PWLNYC2016)
-* [Velocity Keynote](http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/schedule/detail/53044) - Santa Clara - June 22 - [Materials](https://github.com/Randommood/Velocity2016)
+* [PWL NYC](http://www.meetup.com/papers-we-love/), New York - June 14 - [Materials](https://github.com/Randommood/PWLNYC2016)
+* [Velocity Keynote](http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/schedule/detail/53044), Santa Clara - June 22 - [Materials](https://github.com/Randommood/Velocity2016)
 * [Barcelona Full Stack Fest](http://2016.fullstackfest.com/), Barcelona - September 5-9 - [Materials](https://github.com/Randommood/FullStackFest2016)
 * [YOW Melbourne](http://melbourne.yowconference.com.au/), [YOW Brisbane](http://brisbane.yowconference.com.au/), [YOW Sydney](http://sydney.yowconference.com.au/), Australia - December 1-9 - [Materials](https://github.com/Randommood/YOW2016)
 
@@ -31,7 +31,7 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 * [Relational and Non-Relational Databases in The Cloud - GreatWideOpen 2014](http://greatwideopen.org/2014/), Atlanta -[Materials](https://github.com/Randommood/GreatWideOpen2014)
 
 ### 2013
-* [Lancaster University’s Highwire program: Seminar on Cloud and Innovation](http://www.highwire.lancs.ac.uk/events/Preview/1058) - [Slides](https://speakerdeck.com/randommood/how-the-cloud-is-changing-the-world)
+* [Lancaster University’s Highwire program: Seminar on Cloud and Innovation](http://www.highwire.lancs.ac.uk/events/Preview/1058) - [Slides](https://speakerdeck.com/randommood/how-the-cloud-is-changing-the-world), Lancaster England
 * [Data Antipatterns - All Your Base 2013](http://allyourbaseconf.com/2013/), Oxford England - [Slides](https://speakerdeck.com/randommood/data-antipatterns-all-your-base)
 
 ### 2012
