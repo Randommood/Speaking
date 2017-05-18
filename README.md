@@ -6,17 +6,17 @@ Ines Sombra is a Distributed Systems Director at [Fastly](https://www.fastly.com
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2017
-* [J on the Beach](), Malaga - May 17-19
+* [Materials](https://github.com/Randommood/TroubleWithDistribution) for [J on the Beach](), Malaga - May 17-19
 * [Spot 2]()
 * [Spot 3]()
 
 ### 2016
-* [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29 - [Materials](https://github.com/Randommood/FallacyOfFast)
-* [PWL NYC](http://www.meetup.com/papers-we-love/), New York - June 14 - [Materials](https://github.com/Randommood/PWLNYC2016)
-* [Velocity Keynote](http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/schedule/detail/53044), Santa Clara - June 22 - [Materials](https://github.com/Randommood/Velocity2016)
-* [Barcelona Full Stack Fest](http://2016.fullstackfest.com/), Barcelona - September 5-9 - [Materials](https://github.com/Randommood/FullStackFest2016)
-* [YOW Melbourne](http://melbourne.yowconference.com.au/), [YOW Brisbane](http://brisbane.yowconference.com.au/), [YOW Sydney](http://sydney.yowconference.com.au/), Australia - December 1-9 - [Materials](https://github.com/Randommood/YOW2016)
-* [From 0 to Capacity Planning - There and back again](https://stripe.com/events/lightning-talks-and-pie-dec2016), SF - [Materials](https://github.com/Randommood/ZerotoCapacityPlanning)
+* [Materials](https://github.com/Randommood/FallacyOfFast) for [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29
+* [Materials](https://github.com/Randommood/PWLNYC2016) for [PWL NYC](http://www.meetup.com/papers-we-love/), New York - June 14
+* [Materials](https://github.com/Randommood/Velocity2016) for [Velocity Keynote](http://conferences.oreilly.com/velocity/devops-web-performance-ca/public/schedule/detail/53044), Santa Clara - June 22
+* [Materials](https://github.com/Randommood/FullStackFest2016) for [Barcelona Full Stack Fest](http://2016.fullstackfest.com/), Barcelona - September 5-9
+* [Materials](https://github.com/Randommood/YOW2016) for [YOW Melbourne](http://melbourne.yowconference.com.au/), [YOW Brisbane](http://brisbane.yowconference.com.au/), [YOW Sydney](http://sydney.yowconference.com.au/), Australia - December 1-9
+* [Materials](https://github.com/Randommood/ZerotoCapacityPlanning) for [From 0 to Capacity Planning - There and back again](https://stripe.com/events/lightning-talks-and-pie-dec2016), SF
 
 ### 2015
 * [Testing and Integration, The Remix - CraftConf 2015](http://craft-conf.com/2015), Budapest - [Materials](https://github.com/randommood/Craftconf2015)
