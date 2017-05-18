@@ -7,8 +7,8 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2017
 * [Materials](https://github.com/Randommood/TroubleWithDistribution) for [J on the Beach](), Malaga - May 17-19
-* [Spot 2]()
-* [Spot 3]()
+* [Slides](https://speakerdeck.com/randommood/a-primer-on-image-optimization) for [Fastly Altitude NYC](https://www.fastly.com/altitude-nyc), New York - March 22
+
 
 ### 2016
 * [Materials](https://github.com/Randommood/FallacyOfFast) for [CraftConf](http://www.craft-conf.com/2016), Budapest - April 26-29
