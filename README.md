@@ -8,6 +8,7 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 ### 2017
 * [Materials](https://github.com/Randommood/TroubleWithDistribution) for [J on the Beach](), Malaga - May 17-19
 * [Slides](https://speakerdeck.com/randommood/a-primer-on-image-optimization) for [Fastly Altitude NYC](https://www.fastly.com/altitude-nyc), New York - March 22
+* [Slides](https://www.slideshare.net/Fastly/altitude-sf-2017-a-handson-tour-of-image-optimization) & [video](https://vimeo.com/album/4678245/video/226067450) for [Fastly Altitude SF](https://www.fastly.com/altitude), San Francisco - June 29
 
 
 ### 2016
