@@ -5,6 +5,9 @@ Ines Sombra is a Director of Engineering at [Fastly](https://www.fastly.com/), w
 
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
+### 2018
+* [Webstock NZ](https://www.webstock.org.nz) - Wellington, NZ - Feb 12-16
+
 ### 2017
 * [Materials](https://github.com/Randommood/TroubleWithDistribution) for [J on the Beach](), Malaga - May 17-19
 * [Slides](https://speakerdeck.com/randommood/a-primer-on-image-optimization) for [Fastly Altitude NYC](https://www.fastly.com/altitude-nyc), New York - March 22
@@ -33,7 +36,7 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 * [Materials](https://github.com/Randommood/GreatWideOpen2014) for [Relational and Non-Relational Databases in The Cloud - GreatWideOpen 2014](http://greatwideopen.org/2014/), Atlanta
 
 ### 2013
-* [Slides](https://speakerdeck.com/randommood/how-the-cloud-is-changing-the-world) for Highwire graduate semminar given at Lancaster University, England[Lancaster University’s Highwire program: Seminar on Cloud and Innovation](http://www.highwire.lancs.ac.uk/events/Preview/1058)
+* [Slides](https://speakerdeck.com/randommood/how-the-cloud-is-changing-the-world) for Highwire graduate semminar given at Lancaster University, England [Lancaster University’s Highwire program: Seminar on Cloud and Innovation](http://www.highwire.lancs.ac.uk/events/Preview/1058)
 * [Slides](https://speakerdeck.com/randommood/data-antipatterns-all-your-base) for [Data Antipatterns - All Your Base 2013](http://allyourbaseconf.com/2013/), Oxford England
 
 ### 2012
