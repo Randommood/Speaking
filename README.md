@@ -5,8 +5,13 @@ Ines Sombra is a Director of Engineering at [Fastly](https://www.fastly.com/), w
 
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
+### 2019
+* Scaleconf - Medellin, Colombia - May 17-18
+
 ### 2018
 * [Materials](https://github.com/Randommood/go-fast) for [Webstock NZ](https://www.webstock.org.nz) - Wellington, NZ - Feb 12-16
+* Fastly Altitude London
+* Fastly Altitude San Francisco
 
 ### 2017
 * [Materials](https://github.com/Randommood/TroubleWithDistribution) for [J on the Beach](), Malaga - May 17-19
