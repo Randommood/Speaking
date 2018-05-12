@@ -9,8 +9,8 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 * Scaleconf - Medellin, Colombia - May 17-18
 
 ### 2018
-* [Materials](https://github.com/Randommood/go-fast) for [Webstock NZ](https://www.webstock.org.nz) - Wellington, NZ - Feb 12-16
-* Fastly Altitude London
+* [Materials](https://github.com/Randommood/go-fast) for [Webstock NZ](https://www.webstock.org.nz), Wellington, NZ - Feb 12-16
+* [Matetrials](https://github.com/Randommood/Altitude2018) for [Fastly Altitude London](https://www.fastly.com/altitude/2018/london), London - May 22
 * Fastly Altitude San Francisco
 
 ### 2017
