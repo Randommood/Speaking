@@ -1,5 +1,5 @@
 ## About Me
-Ines Sombra is a Director of Engineering at [Fastly](https://www.fastly.com/), where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
+Ines Sombra is a Senior Director of Engineering at [Fastly](https://www.fastly.com/), where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a pug named Gordo. In a previous life she was a Data Engineer. Follow Ines [@randommood](https://twitter.com/randommood)
 
 ## Recent & Upcoming Speaking Appearances
 
