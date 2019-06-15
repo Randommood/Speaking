@@ -6,17 +6,22 @@ Ines Sombra is a Senior Director of Engineering at [Fastly](https://www.fastly.c
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2019
-* Scaleconf - Medellin, Colombia - May 17-18
+* [Velocity California](https://conferences.oreilly.com/velocity/vl-ca), San Jose - Jun 10 - Jun 13
+* [Velocity Europe](https://conferences.oreilly.com/velocity/vl-eu), Berlin - Nov 4 - Nov 7
 
 ### 2018
 * [Materials](https://github.com/Randommood/go-fast) for [Webstock NZ](https://www.webstock.org.nz), Wellington, NZ - Feb 12-16
 * [Matetrials](https://github.com/Randommood/Altitude2018) for [Fastly Altitude London](https://www.fastly.com/altitude/2018/london), London - May 22
 * Fastly Altitude San Francisco
+* Velocity California, San Jose -
+* Velocity NYC, New York -
+* Velocity Europe, London -
 
 ### 2017
 * [Materials](https://github.com/Randommood/TroubleWithDistribution) for [J on the Beach](), Malaga - May 17-19
 * [Slides](https://speakerdeck.com/randommood/a-primer-on-image-optimization) for [Fastly Altitude NYC](https://www.fastly.com/altitude-nyc), New York - March 22
 * [Slides](https://www.slideshare.net/Fastly/altitude-sf-2017-a-handson-tour-of-image-optimization) & [video](https://vimeo.com/album/4678245/video/226067450) for [Fastly Altitude SF](https://www.fastly.com/altitude), San Francisco - June 29
+* Velocity
 
 
 ### 2016
