@@ -7,7 +7,7 @@ All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
 ### 2021
 
-* [Materials](https://github.com/Randommood/DataAtScale) for [YOW](https://yowconference.com/)
+* [Materials](https://github.com/Randommood/DataAtScale) for [YOW! December 2021](https://skillsmatter.com/conferences/13543-yow-december-2021#program)
 * [QCon Plus - Production Readiness Track](https://plus.qconferences.com/plus2021/track/production-readiness)
 * [LeadDev Live](https://leaddev.com/course/leaddev-live)
 
