@@ -1,17 +1,27 @@
 ## About Me
-Ines Sombra is a VP of Engineering at [Fastly](https://www.fastly.com/), where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and running after a toddler who won't stay put. Follow Ines [@randommood](https://twitter.com/randommood)
+Ines Sombra is a VP of Engineering at [Fastly](https://www.fastly.com/), where she spends her time helping the Web go faster. Ines holds an M.S. in Computology with an emphasis on Cheesy 80’s Rock Ballads. She has a fondness for steak, fernet, and a kid who is way into Pokemon. Follow Ines [@randommood](https://bsky.app/profile/randommood.bsky.social)
 
-## Recent & Upcoming Speaking Appearances
+## Upcoming & Past Speaking Appearances
 
 All of my slides are posted on Speakerdeck - https://speakerdeck.com/randommood
 
+### 2025
+
+* [LeadDev](https://leaddev.com/leaddev-london/agenda/) London, June 16 & 17
+
+### 2024
+
+* [Fastly XCelerate London](https://learn.fastly.com/xcelerate) London, June 18
+* [Devops.Barcelona](https://devops.barcelona/previous-talks) Barcelona, November 14-15
+
 ### 2023
 
-* [Sapphire Ventures Hypergrowth Engineering Summit](https://events.sapphireventures.com/hypergrowthengineeringsummit23rsvprequest)
+* [Sapphire Ventures Hypergrowth Engineering Summit](https://events.sapphireventures.com/hypergrowthengineeringsummit23rsvprequest), San Francisco, June 15
+* LeadDev SF - https://leaddev.com/sanfrancisco, Oakland, October 16-17
 
 ### 2022
 
-* LeadDev SF - https://leaddev.com/sanfrancisco
+* LeadDev SF - https://leaddev.com/sanfrancisco, Oakland, October 26-27
 
 ### 2021
 
